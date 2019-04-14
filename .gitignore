@@ -39,3 +39,5 @@ sysinfo.txt
 
 # Google JSON
 *.json
+
+Editor/*
