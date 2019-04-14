@@ -37,7 +37,4 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-# Google JSON
-*.json
-
 Editor/*
